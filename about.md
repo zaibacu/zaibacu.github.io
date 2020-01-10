@@ -9,8 +9,6 @@ Training Brazilian Jiu Jitsu (Since 2016) and casually running some half-maratho
 
 ### My Projects
 
-#### Griaustinis.lt
-
 - [Griaustinis.lt](https://www.griaustinis.lt/) - Programming Training videos in Lithuanian. There's metric ton of those in English, spreading some knowledge in native language.
 
 - [Rita DSL](https://github.com/zaibacu/rita-dsl) - A Domain Specific Language created for writing rules which allows to parse information from text
